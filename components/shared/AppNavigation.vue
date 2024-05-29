@@ -22,7 +22,7 @@ export default {
       sm:shadow-none
     "
   >
-    <NuxtLink
+    <!-- <NuxtLink
       to="/projects"
       class="
         block
@@ -116,7 +116,7 @@ export default {
       "
       aria-label="Contact"
       >Contact</NuxtLink
-    >
+    > -->
     <div
       class="
         font-general-regular

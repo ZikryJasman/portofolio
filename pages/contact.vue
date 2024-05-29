@@ -8,17 +8,17 @@ export default {
       contacts: [
         {
           id: 1,
-          name: "Lahore, Pakistan",
+          name: "Kalimantan Barat, Indonesia",
           icon: "map-pin",
         },
         {
           id: 2,
-          name: "saadfareed632@gmail.com",
+          name: "zikryjasman123@gmail.com",
           icon: "mail",
         },
         {
           id: 3,
-          name: "+92 333 4909162",
+          name: "+6282148770104",
           icon: "phone",
         },
       ],

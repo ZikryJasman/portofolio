@@ -2,14 +2,14 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: "static",
   router: {
-    base: '/Nuxt-portfolio/'
+    base: '/zikry-portfolio/'
   },
   colorMode: {
     classSuffix: "",
-  },  
+  },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "Saad Portfolio",
+    title: "Zikry Portfolio",
     htmlAttrs: {
       lang: "en",
     },
@@ -19,7 +19,7 @@ export default {
       { hid: "description", name: "description", content: "" },
       { name: "format-detection", content: "telephone=no" },
     ],
-    link: [{ rel: "icon", type: "image/x-icon", href: "/fav.jpg" }],
+    link: [{ rel: "icon", type: "image/x-icon", href: "/fav.png" }],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
