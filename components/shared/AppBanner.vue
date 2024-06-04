@@ -58,12 +58,11 @@ export default {
           text-gray-400
         "
       >
-        A Web Developer 
+        A Web Developer
       </p>
       <div class="flex justify-center sm:block">
         <a
-          href="CV_Muhammad_Zikry_Jasman.pdf"
-          download=""
+          href="@/static/CV_Muhammad_Zikry_Jasman.pdf"
           class="
             flex
             justify-center
