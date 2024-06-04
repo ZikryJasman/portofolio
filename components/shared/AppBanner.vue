@@ -62,7 +62,7 @@ export default {
       </p>
       <div class="flex justify-center sm:block">
         <a
-          href="@/static/CV_Muhammad_Zikry_Jasman.pdf"
+          href="/CV_Muhammad_Zikry_Jasman.pdf"
           class="
             flex
             justify-center
@@ -103,10 +103,10 @@ export default {
     <div class="w-full md:w-2/3 text-right float-right">
       <img
         v-if="this.$colorMode.value == 'dark'"
-        src="~/static/developer-dark.svg"
+        src="/developer-dark.svg"
         alt="Developer Dark"
       />
-      <img v-else src="~/static/developer.svg" alt="Developer Light" />
+      <img v-else src="/developer.svg" alt="Developer Light" />
     </div>
   </section>
 </template>
